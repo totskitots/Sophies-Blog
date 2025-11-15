@@ -1,0 +1,16 @@
+/* Styling for the page title */
+header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+/* Body background styling */
+body {
+    background: #e3e3e3;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
