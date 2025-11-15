@@ -1,6 +1,6 @@
 <html>
 <body>
-  <head><link rel="stylesheet" href="styling.css"></head>head>
+  <head><link rel="stylesheet" href="styling.css"></head>
 <header>
 <h1>Welcome to My Static Page</h1>
 </header>
